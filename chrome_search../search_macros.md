@@ -1,0 +1,8 @@
+!w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
+!y: https://www.youtube.com/results?search_query=%s Youtube
+!maps: https://www.google.com/maps?q=%s Google Maps
+!ru: https://rutracker.org/forum/tracker.php?nm=%s Rutracker  
+!lyric: https://genius.com/search?q=%s Genius 
+!r https://www.google.com/search?q=site%3Areddit.com+%s&sca_esv=559872417&ei=i9znZOXmA8-dhbIP3aKi8Ag&ved=0ahUKEwil2OPnrvaAAxXPTkEAHV2RCI4Q4dUDCBA&uact=5&oq=site%3Areddit.com+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHNpdGU6cmVkZGl0LmNvbSB0ZXN0SIYgUIgGWJ4fcAN4AZABAJgBdKABigiqAQQxOS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBxAAGIoFGEPCAhQQLhiKBRixAxiDARjHARjRAxiRAsICDhAAGIoFGLEDGIMBGJECwgITEC4YigUYsQMYgwEYxwEY0QMYQ8ICERAuGIAEGLEDGIMBGMcBGNEDwgIIEAAYigUYkQLCAg0QLhiKBRjHARjRAxhDwgIIEAAYgAQYsQPCAgsQABiKBRixAxiDAcICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQLhiABBixA8ICDhAuGIoFGMcBGNEDGJECwgIKEAAYigUYsQMYQ8ICHRAuGIoFGMcBGNEDGJECGJcFGNwEGN4EGOAE2AEBwgIHEAAYgAQYCuIDBBgAIEGIBgGQBgi6BgYIARABGBQ&sclient=gws-wiz-serp Reddit
+!imdb: https://www.imdb.com/find?s=all&q=%s
+!trans: https://translate.google.com/?source=osdd#auto|auto|%s Google Translator
