@@ -1,0 +1,26 @@
+{
+  "settingsVersion": "1.67.7",
+  "exclusionRules": [
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": ""
+    }
+  ],
+  "filterLinkHints": false,
+  "waitForEnterForFilteredHints": true,
+  "hideHud": false,
+  "keyMappings": "unmapAll\nmap O Vomnibar.activateInNewTab\nmap gg scrollToTop\nmap ! lastTab\nmap yy copyCurrentUrl\nmap <C-m> toggleMuteTab\nmap T Vomnibar.activateTabSelection",
+  "linkHintCharacters": "sadfjklewcmpgh",
+  "linkHintNumbers": "0123456789",
+  "newTabUrl": "about:newtab",
+  "nextPatterns": "next,more,newer,>,›,→,»,≫,>>",
+  "previousPatterns": "prev,previous,back,older,<,‹,←,«,≪,<<",
+  "regexFindMode": false,
+  "ignoreKeyboardLayout": false,
+  "scrollStepSize": 60,
+  "smoothScroll": true,
+  "grabBackFocus": false,
+  "searchEngines": "!w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\n!y: https://www.youtube.com/results?search_query=%s Youtube\n!maps: https://www.google.com/maps?q=%s Google Maps\n!ru: https://rutracker.org/forum/tracker.php?nm=%s Rutracker  \n!lyric: https://genius.com/search?q=%s Genius \n!r https://www.google.com/search?q=site%3Areddit.com+%s&sca_esv=559872417&ei=i9znZOXmA8-dhbIP3aKi8Ag&ved=0ahUKEwil2OPnrvaAAxXPTkEAHV2RCI4Q4dUDCBA&uact=5&oq=site%3Areddit.com+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHNpdGU6cmVkZGl0LmNvbSB0ZXN0SIYgUIgGWJ4fcAN4AZABAJgBdKABigiqAQQxOS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBxAAGIoFGEPCAhQQLhiKBRixAxiDARjHARjRAxiRAsICDhAAGIoFGLEDGIMBGJECwgITEC4YigUYsQMYgwEYxwEY0QMYQ8ICERAuGIAEGLEDGIMBGMcBGNEDwgIIEAAYigUYkQLCAg0QLhiKBRjHARjRAxhDwgIIEAAYgAQYsQPCAgsQABiKBRixAxiDAcICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQLhiABBixA8ICDhAuGIoFGMcBGNEDGJECwgIKEAAYigUYsQMYQ8ICHRAuGIoFGMcBGNEDGJECGJcFGNwEGN4EGOAE2AEBwgIHEAAYgAQYCuIDBBgAIEGIBgGQBgi6BgYIARABGBQ&sclient=gws-wiz-serp Reddit\n!imdb: https://www.imdb.com/find?s=all&q=%s\n!trans: https://translate.google.com/?source=osdd#auto|auto|%s Google Translator",
+  "searchUrl": "https://www.google.com/search?q=",
+  "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF785),\n  color-stop(100%,#FFC542));\nborder: 1px solid #E3BE23;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}"
+}
