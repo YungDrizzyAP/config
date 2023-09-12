@@ -1,5 +1,6 @@
 !w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
 !y: https://www.youtube.com/results?search_query=%s Youtube
+!a https://www.amazon.co.uk/s?k=%s Amazon
 !maps: https://www.google.com/maps?q=%s Google Maps
 !ru: https://rutracker.org/forum/tracker.php?nm=%s Rutracker  
 !lyric: https://genius.com/search?q=%s Genius 
